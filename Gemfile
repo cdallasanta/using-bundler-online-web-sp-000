@@ -1,2 +1,3 @@
 source "https://rubygems.org"
-gem rspec
+gem "rpsec"
+gem "sinatra"
